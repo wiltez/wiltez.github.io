@@ -7,4 +7,5 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
 
 This is the walk through https://www.fast.ai/2020/01/16/fast_template/
+Let's see if this is a good alternative to https://wilte.wordpress.com/
 
